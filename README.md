@@ -22,7 +22,7 @@ The stuff between horizontal rules are slides
 
 -----------------
 
-Then simple style the resulting html
+Then simply style the resulting html
 
 -----------------
 
